@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pradeeppilotdev
+- 👋 Hi, I’m Chandrapradeep 
 - 👀 I’m interested in Web3 
 - 🌱 I’m currently learning solidity, JS
 - 💞️ I’m looking to collaborate on web3 projects and web development
