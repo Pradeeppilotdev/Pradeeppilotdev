@@ -4,9 +4,6 @@ I'm a Web3 enthusiast and blockchain expert with a strong background in web deve
 
 ## About Me
 
-- 🚀 **Expert in Airdrops**  
-  I specialize in crafting and executing airdrops to ensure maximum reach and adoption.  
-
 - 🌐 **Blockchain Enthusiast**  
   I've worked on some of the most popular blockchains, including both Layer 1 and Layer 2 solutions.  
 
