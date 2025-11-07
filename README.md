@@ -11,6 +11,12 @@ I love writing code that lives **onchain** and building across both **Web2 and W
 :)**
 
 ---
+## What am I?
+
+I'm a guy who loves to experiment things that actually make me think how it works..!
+ZK is what now I'm researching and developing things using ZK and tools!
+I literally love connecting to Dev's IRL and connect with 'em cause they are always dope with stuffs they know..!
+yeah that's pretty much about what am I ..!
 
 ## Let’s Connect  
 - [Twitter](https://twitter.com/pradeeppilot2k5)  
