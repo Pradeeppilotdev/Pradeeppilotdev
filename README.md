@@ -1,23 +1,26 @@
-# 👋 Hey there, I'm Chandrapradeep
+# Hey, I'm Pradeep  
 
-I'm a Web3 enthusiast and blockchain expert with a strong background in web development and smart contracts. Passionate about pushing boundaries in the decentralized world, here's a bit about me:
-
-## About Me
-
-- 🌐 **Blockchain Enthusiast**  
-  I've worked on some of the most popular blockchains, including both Layer 1 and Layer 2 solutions.  
-
-- 💻 **Web3 and Development**  
-  I'm skilled in web development and creating robust smart contracts for decentralized applications.  
-
-- 🔧 **Versatile Developer**  
-  I can contribute to any Web3 project with expertise and enthusiasm.
-
-## Let's Connect
-
-- 🐦 **Twitter**: [@pradeeppilot2k5](https://twitter.com/pradeeppilot2k5)  
-- 📧 **Email**: chandrapradeepr@gmail.com  
+Builder. Coder. Dreamer.  
+I love writing code that lives **onchain** and building across both **Web2 and Web3**.  
 
 ---
-<!---This repository is a ✨ special ✨ one because its `README.md` appears on your GitHub profile. Click the **Preview** link to take a look at your changes._ --->
 
+## What I Do  
+- **Onchain Development** – Crafting smart contracts and decentralized apps with security and scalability in mind.  
+- **Full‑Stack Engineering** – From frontend polish to backend logic, I bridge Web2 and Web3 seamlessly.  
+- **Blockchain Explorer** – Always experimenting with new protocols, L1s, and L2s to push boundaries.  
+
+---
+
+## My Vibe  
+I’m not just “interested” in Web3—I live it. Whether it’s coding late nights, debugging contracts, or helping devs around me, I thrive on building things that matter.  
+
+---
+
+## Let’s Connect  
+- [Twitter](https://twitter.com/pradeeppilot2k5)  
+- chandrapradeepr@gmail.com  
+
+---
+
+*Always learning. Always shipping. Always onchain.*  
