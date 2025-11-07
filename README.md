@@ -1,6 +1,6 @@
 # Hey, I'm Pradeep  
 
-Builder. Coder. Dreamer.  
+Builder. Coder. Onchain Roamer.  
 I love writing code that lives **onchain** and building across both **Web2 and Web3**.  
 
 ---
