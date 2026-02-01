@@ -25,7 +25,8 @@ yeah that's pretty much about what am I ..!
 
 ## Let’s Connect  
 - [Twitter](https://twitter.com/pradeeppilot2k5)  
-- chandrapradeepr@gmail.com  
+- chandrapradeepr@gmail.com
+- [Telegram](https://telegram.me/pradeeppilot)
 
 ---
 
