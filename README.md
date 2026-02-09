@@ -19,7 +19,7 @@ ZK & Privacy is what now I'm researching and developing things using **ZK** and 
 
 I literally love connecting to **Dev's IRL** and connect with 'em cause they are always dope with stuffs they know..!
 
-yeah that's pretty much about what am I ..!
+yeah that's pretty much about what am I ...!
 
 ---
 
