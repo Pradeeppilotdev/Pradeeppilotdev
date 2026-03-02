@@ -5,7 +5,7 @@ I love writing code that lives **onchain** and building across both **Web2 and W
 
 ---
 
-## What I Do  
+## What I Do? 
 
 **I develop dApps | Games | And Cool things 
 :)**
